@@ -1,7 +1,5 @@
 # 📊 Statistics Basics Repository  
 
-![Statistics GIF](https://media.giphy.com/media/3o6UBpHgaXFDNAuttm/giphy.gif)  
-
 ## 🔍 Overview  
 This repository contains essential concepts, practical assignments, and Python implementations for **Statistics Basics**. Whether you're exploring descriptive statistics, inferential methods, or Python-based statistical analysis, you'll find everything here! 📈💡  
 
@@ -24,8 +22,4 @@ This repository contains essential concepts, practical assignments, and Python i
 - 📊 **NumPy & pandas**  
 - 🎨 **Matplotlib & Seaborn**  
 
-## 🚀 Quick Start  
-```sh
-git clone https://github.com/your-username/statistics-basics.git
-cd statistics-basics
-pip install -r requirements.txt
+
